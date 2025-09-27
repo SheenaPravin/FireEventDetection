@@ -1,7 +1,7 @@
 streamlit
+ultralytics
 opencv-python
-Pandas
 numpy
-requests
-
-
+pillow
+torch
+torchvision
